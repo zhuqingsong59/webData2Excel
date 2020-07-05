@@ -117,12 +117,7 @@ export function export_table_to_excel(id) {
 
     saveAs(new Blob([s2ab(wbout)], {type: "application/octet-stream"}), "test.xlsx")
 }
-
-function formatJson(jsonData) {
-    console.log(jsonData)
-}
 function colwidth(data, len) {
-  console.log(data)
   let colwidthList = []
   for (let row of data) {
     for (let i = 0; i < len; i++) {
