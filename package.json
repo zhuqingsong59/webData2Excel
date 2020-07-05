@@ -1,0 +1,31 @@
+{
+  "name": "webdata2excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuqingsong59/webData2Excel.git"
+  },
+  "keywords": [
+    "export",
+    "web",
+    "data",
+    "to",
+    "excel"
+  ],
+  "author": "zqs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuqingsong59/webData2Excel/issues"
+  },
+  "homepage": "https://github.com/zhuqingsong59/webData2Excel#readme",
+  "devDependencies": {
+    "file-saver": "^2.0.2",
+    "script-loader": "^0.7.2",
+    "xlsx": "^0.16.3"
+  }
+}
