@@ -1,14 +1,14 @@
 # webData2Excel
 >  export data to excel in browser
 
-## install
+## Installation
 
 
 ```bash
  npm i webData2Excel
 ```
 
-## usage
+## Usage
 
 ```
  import webData2Excel form 'webData2Excel'
@@ -18,7 +18,7 @@
  webData2Excel(headList, dataList, fileName)
 ```
 
-## parameters format
+## Parameters format
 ### headList
 object array, object has two props, label and key  
 
