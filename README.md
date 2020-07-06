@@ -22,7 +22,7 @@
 ### headList
 object array, object has two props, label and key  
 
-for example
+for example：
 ```
 [
  {label: '表头名称1', key: 'prop1'},
@@ -33,7 +33,7 @@ for example
 ### dataList
 object array  
 
-for example
+for example：
 ```
 [
  {prop1: '数据1-1', prop2: '数据1-2', ...},
@@ -44,7 +44,7 @@ for example
 ### fileName
 string  
 
-for example
+for example：
 ```
 '文件名称'
 ```
