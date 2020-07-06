@@ -20,7 +20,8 @@
 
 ## parameters format
 ### headList
-object array, every object has two props, label and key
+object array, object has two props, label and key  
+
 for example
 ```
 [
@@ -30,7 +31,8 @@ for example
 ]
 ```
 ### dataList
-object array
+object array  
+
 for example
 ```
 [
@@ -40,7 +42,8 @@ for example
 ]
 ```
 ### fileName
-string
+string  
+
 for example
 ```
 '文件名称'
